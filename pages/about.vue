@@ -1,5 +1,8 @@
 <template>
-<div>about</div>
+<div>
+  <h1>about</h1>
+  <img src="../assets/img1.jpeg" height="665" width="1182"/>
+</div>
 </template>
 
 <script>
