@@ -6,7 +6,7 @@
     <section>
       <div class="content">
         <div class="left">
-          <img src="../assets/img1.jpeg"/>
+          <img src="../assets/img1.jpeg" alt=""/>
         </div>
         <div class="right">This command will add nuxt as a dependency to your project and add it to your package.json.
           The node_modules directory will also be created which is where all your installed packages and dependencies
@@ -24,6 +24,7 @@
           This command will add nuxt as a dependency to your project and add it to your package.json.
           The node_modules directory will also be created which is where all your installed packages and dependencies
           are stored.
+
         </div>
       </div>
     </section>
