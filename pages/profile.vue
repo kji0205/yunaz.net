@@ -11,6 +11,19 @@
         <div class="right">This command will add nuxt as a dependency to your project and add it to your package.json.
           The node_modules directory will also be created which is where all your installed packages and dependencies
           are stored.
+          This command will add nuxt as a dependency to your project and add it to your package.json.
+          The node_modules directory will also be created which is where all your installed packages and dependencies
+          are stored.
+          This command will add nuxt as a dependency to your project and add it to your package.json.
+          The node_modules directory will also be created which is where all your installed packages and dependencies
+          are stored. <br>
+          This command will add nuxt as a dependency to your project and add it to your package.json.
+          The node_modules directory will also be created which is where all your installed packages and dependencies
+          are stored.
+          <br>
+          This command will add nuxt as a dependency to your project and add it to your package.json.
+          The node_modules directory will also be created which is where all your installed packages and dependencies
+          are stored.
         </div>
       </div>
     </section>
